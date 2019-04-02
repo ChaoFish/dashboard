@@ -1,6 +1,6 @@
-# scaffolds
+# dashboard
 
-> A Vue.js project
+> 电子商务数据大盘分析
 
 ## Build Setup
 
